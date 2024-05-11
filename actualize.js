@@ -1,6 +1,6 @@
 
-var oldDomains = ["miradres.com","miradres2.com"],
-	newDomains = ["cadmist.com","cadmist2.com"],
+var oldDomains = ["miradres2.com"],
+	newDomains = ["cadmist.com"],
 		delay = 2000;
 
 //oldDomains = oldDomains.split(","),

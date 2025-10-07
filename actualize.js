@@ -63,6 +63,7 @@ function checkTime() {
 		}
 	}
 	
+	
 	console.log(hourMultiplicity, minuteMultiplicity);
 	var now = new Date();
 	
